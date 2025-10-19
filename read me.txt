@@ -1,0 +1,5 @@
+
+Title: PyToyOS - Classic Macintosh Emulator
+
+Description: 
+PyToyOS is a Python-based desktop environment emulator inspired by the classic Macintosh OS. It includes core apps like MacWrite (text editor), Calculator, MacPlayer (music player), and MacPaint (drawing application), all styled to mimic the original Mac OS interface and feel. This project runs on Windows, macOS, and Linux with Tkinter installed, providing a nostalgic Macintosh experience on modern systems.
